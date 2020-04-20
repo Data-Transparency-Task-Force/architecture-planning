@@ -1,22 +1,22 @@
 # architecture-planning
-Discussion of DTF software architecture Repo
+Discussion of DTF software architecture Repo  
 	- Application for Healthcare Workers  
 	- Data Models for Storing Factors  
 	- Query Resource Databases  
 	- Verified Real-Time Data Guaranteed Via Smart Contract  
 	- Secure File Storage eith Agile Referencing  
 
-use JS based tech
+use JS based tech  
 	- NodeJS  
 	- SQL  
 	- IPFS-JS  
 	- ReactJS  
 
-UI - web dashboard (world map)
+UI - web dashboard (world map)  
 	- Google Maps API  
 	- HTML5  
 
-IPFS for storage
+IPFS for storage  
 	- Hash Based Linking  
 	- Secure SHA Encryption  
 	- Scalable File Structure  
