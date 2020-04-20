@@ -1,25 +1,25 @@
 # architecture-planning
 Discussion of DTF software architecture Repo  
-	- Application for Healthcare Workers  
-	- Data Models for Storing Factors  
-	- Query Resource Databases  
-	- Verified Real-Time Data Guaranteed Via Smart Contract  
-	- Secure File Storage eith Agile Referencing  
+    - Application for Healthcare Workers  
+    - Data Models for Storing Factors  
+    - Query Resource Databases  
+    - Verified Real-Time Data Guaranteed Via Smart Contract  
+    - Secure File Storage with Agile Referencing  
 
 use JS based tech  
-	- NodeJS  
-	- SQL  
-	- IPFS-JS  
-	- ReactJS  
+    - NodeJS  
+    - SQL  
+    - IPFS-JS  
+    - ReactJS  
 
 UI - web dashboard (world map)  
-	- Google Maps API  
-	- HTML5  
+    - Google Maps API  
+    - HTML5  
 
 IPFS for storage  
-	- Hash Based Linking  
-	- Secure SHA Encryption  
-	- Scalable File Structure  
+    - Hash Based Linking  
+    - Secure SHA Encryption  
+    - Scalable File Structure  
 
 # Resources
 COVID-19 data sets provided by AWS: https://aws.amazon.com/blogs/big-data/a-public-data-lake-for-analysis-of-covid-19-data/
