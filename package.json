@@ -1,0 +1,28 @@
+{
+  "name": "architecture-planning",
+  "version": "1.0.0",
+  "description": "archPlan",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Data-Transparency-Task-Force/architecture-planning.git"
+  },
+  "keywords": [
+    "DTF",
+    "ARCH",
+    "JS"
+  ],
+  "author": "loganbek",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Data-Transparency-Task-Force/architecture-planning/issues"
+  },
+  "homepage": "https://github.com/Data-Transparency-Task-Force/architecture-planning#readme",
+  "dependencies": {
+    "ipfs": "^0.43.0",
+    "reactjs": "^1.0.0"
+  }
+}
