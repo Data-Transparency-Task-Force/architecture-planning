@@ -19,7 +19,11 @@ use **JS** based tech
 **IPFS** for storage  
     - Hash Based Linking  
     - Secure SHA Encryption  
-    - Scalable File Structure  
+    - Scalable File Structure
+    
+**ZK-snarks**
+    - TODO:
+        Determine whether we should use zero knowledge proofs to preserve user privacy
 
 # Resources
 COVID-19 data sets provided by AWS:
