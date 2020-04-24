@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/Data-Transparency-Task-Force/architecture-planning) 
+
 # architecture-planning
 Discussion of DTF software architecture Repo  
     - Application for Healthcare Workers  
