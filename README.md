@@ -18,7 +18,7 @@ use **JS** based tech
 
 **UI** - web dashboard (world map)  
 
-    - Google Maps API  
+    - Google Maps API  - https://www.npmjs.com/package/google-map-react
     - HTML5  
 
 **IPFS** for storage  
