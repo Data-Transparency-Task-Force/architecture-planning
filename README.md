@@ -1,4 +1,4 @@
-[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/Data-Transparency-Task-Force/architecture-planning) 
+Brainstorm DOC - https://docs.google.com/document/d/1h1tq6URVTEinGAatKxs6Adybji50wT9O8ceLaoPGd0E/edit?usp=sharing
 
 [![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/Data-Transparency-Task-Force/architecture-planning)
 ![CI](https://github.com/Data-Transparency-Task-Force/architecture-planning/workflows/CI/badge.svg)
