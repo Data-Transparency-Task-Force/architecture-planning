@@ -12,7 +12,7 @@ Discussion of DTF Software Architecture Repo
 use **JS** based tech
 
     - NodeJS - https://github.com/nodejs/node
-    - SQL -   
+    - SQL - https://aws.amazon.com/blogs/big-data/a-public-data-lake-for-analysis-of-covid-19-data/   
     - IPFS-JS - https://github.com/ipfs/js-ipfs
     - ReactJS - https://github.com/facebook/react
 
