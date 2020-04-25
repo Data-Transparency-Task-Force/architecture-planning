@@ -1,7 +1,12 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/Data-Transparency-Task-Force/architecture-planning) 
+
 [![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/Data-Transparency-Task-Force/architecture-planning)
 ![CI](https://github.com/Data-Transparency-Task-Force/architecture-planning/workflows/CI/badge.svg)
+
 # Architecture Planning
-Discussion of DTF Software Architecture Repo  
+
+Discussion of DTF Software Architecture Repo
+
     - Application for Healthcare Workers - MAP w/ Data Transparency Score (DTS) - create mockup
     - Data Models for Storing Factors - 
     - Query Resource Databases - compile list
@@ -11,8 +16,8 @@ Discussion of DTF Software Architecture Repo
 
 use **JS** based tech
 
-    - NodeJS - [https://github.com/nodejs/node]
-    - SQL -   
+    - NodeJS - https://github.com/nodejs/node
+    - SQL - https://aws.amazon.com/blogs/big-data/a-public-data-lake-for-analysis-of-covid-19-data/   
     - IPFS-JS - https://github.com/ipfs/js-ipfs
     - ReactJS - https://github.com/facebook/react
 
