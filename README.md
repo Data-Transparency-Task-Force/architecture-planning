@@ -2,11 +2,14 @@
 
 [![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/Data-Transparency-Task-Force/architecture-planning)
 ![CI](https://github.com/Data-Transparency-Task-Force/architecture-planning/workflows/CI/badge.svg)
-# ArchitecturePlanning
-Discussion of DTF Software Architecture Repo  
-    - Application for Healthcare Workers - MAP w/ Data Transparency Score (DTS)
-    - Data Models for Storing Factors
-    - Query Resource Databases
+
+# Architecture Planning
+
+Discussion of DTF Software Architecture Repo
+
+    - Application for Healthcare Workers - MAP w/ Data Transparency Score (DTS) - create mockup
+    - Data Models for Storing Factors - 
+    - Query Resource Databases - compile list
 
     - Verified Real-Time Data Guaranteed Via Smart Contract  
     - Secure File Storage with Agile Referencing  
