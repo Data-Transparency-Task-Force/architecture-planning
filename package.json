@@ -23,6 +23,7 @@
   "homepage": "https://github.com/Data-Transparency-Task-Force/architecture-planning#readme",
   "dependencies": {
     "ipfs": "^0.43.0",
+    "jest": "^25.4.0",
     "prom-client": "^11.5.3",
     "reactjs": "^1.0.0"
   }
