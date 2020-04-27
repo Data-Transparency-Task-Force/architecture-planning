@@ -3,6 +3,16 @@ Brainstorm DOC - https://docs.google.com/document/d/1h1tq6URVTEinGAatKxs6Adybji5
 [![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/Data-Transparency-Task-Force/architecture-planning)
 ![CI](https://github.com/Data-Transparency-Task-Force/architecture-planning/workflows/CI/badge.svg)
 
+# How to contribute
+1) Click "Gitpod Ready-to-Code" badge to start up a new coding workspace.
+2) Under the Source Control: git menu select "Fork" - u should receive confirmatoin you successfully switched in the lower right cornern
+3) Make modifications
+4) "git add *"
+5) "git commit -m "<WHAT CHANGES I MADE>"
+6) "git push" <- from here you can make a pull request w/ changes between our org repo and the forked repo.
+
+
+
 # Architecture Planning
 
 Discussion of DTF Software Architecture Repo
