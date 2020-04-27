@@ -7,7 +7,7 @@ Brainstorm DOC - https://docs.google.com/document/d/1h1tq6URVTEinGAatKxs6Adybji5
 
 Discussion of DTF Software Architecture Repo
 
-    - Application for Healthcare Workers - MAP w/ Data Transparency Score (DTS) - create mockup
+    - Application for Healthcare Workers - MAP w/ Data Transparency Score (DTS) - create mockup w/ react - **WIP**
     - Data Models for Storing Factors - 
     - Query Resource Databases - compile list
 
@@ -25,6 +25,8 @@ use **JS** based tech
 
     - Google Maps API  - https://www.npmjs.com/package/google-map-react
     - HTML5  
+    - Google Maps Reach Component gives us a lot of functionality for free but is not open source
+    - new forked https://www.newline.co/fullstack-react/articles/how-to-write-a-google-maps-react-component/
 
 **IPFS** for storage  
 
@@ -36,10 +38,11 @@ use **JS** based tech
 
     - TODO:
         Determine whether we should use zero knowledge proofs to preserve user privacy
+        Review ZKP presentation: 
 
 # Resources
 
-COVID-19 data sets provided by AWS:
+COVID-19 data sets provided by AWS: <- need to query Amazon COVID-19 data lake w/ SQL.
 
 - https://aws.amazon.com/blogs/big-data/a-public-data-lake-for-analysis-of-covid-19-data/
 
