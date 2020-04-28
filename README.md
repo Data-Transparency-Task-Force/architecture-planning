@@ -16,7 +16,7 @@ Brainstorm DOC - https://docs.google.com/document/d/1h1tq6URVTEinGAatKxs6Adybji5
 
 ## TODO: - add official team doge/mascot "Henry"
 
-![Henry](img/henry.jpeg)
+![Henry](img/FullSizeRender.jpeg)
 
 ## Metric (DTS??) - The metric itself should instill confidence. Calculations should be as transparent as possible. 
 
