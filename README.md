@@ -81,7 +81,7 @@ use **JS** based tech
     - TODO:
         Determine whether we should use zero knowledge proofs to preserve user privacy
         Review ZKP presentation: \
-        - [ ] email expert and ask for her opinion?
+        - [ ] reach out to expert and ask for her opinion? - Hadas Zeilberger, ConsenSys Health's ZK specialist to present on ZK's and lead a Q&A session about privacy and zero-knowledge solutions
 	    - [ ] thoughts?
         - ZKP's are complex
 
