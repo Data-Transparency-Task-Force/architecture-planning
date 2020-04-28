@@ -3,11 +3,24 @@ Brainstorm DOC - https://docs.google.com/document/d/1h1tq6URVTEinGAatKxs6Adybji5
 [![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/Data-Transparency-Task-Force/architecture-planning)
 ![CI](https://github.com/Data-Transparency-Task-Force/architecture-planning/workflows/CI/badge.svg)
 
+# April 29th TODO
+- [ ] intros
+- [ ] react js demo
+- [ ] discussion points
+- [ ] phased approach to metric creation/feedback gathering
+- [ ] decide on 1st 3 phases criterion
+- [ ] mascot
+- [ ] iterate on github workflow - https://gist.github.com/blackfalcon/8428401
+
 # Discussion Points
 
-## Metric - The metric itself should instill confidence. Calculations should be as transparent as possible. 
+## TODO: - add official team doge/mascot "Henry"
 
-1) Current colloquial metric is number of people deceased - lags several weeks behind what's happening (reflects
+![Henry](img/FullSizeRender.jpeg)
+
+## Metric (DTS??) - The metric itself should instill confidence. Calculations should be as transparent as possible. 
+
+1) Current colloquial metric is number of people deceased - lags several weeks behind what's happening
 
 2) The second metric we all know is the number of cases tested positive. This too isn’t helpful because it ignores the number of people who could already be infected but haven’t yet ‘tested’ positive, or could soon be infected because of a particular relationship between population density infection rates. It ignores the context that number is couched in.
 
@@ -15,12 +28,17 @@ Brainstorm DOC - https://docs.google.com/document/d/1h1tq6URVTEinGAatKxs6Adybji5
 
 - current testing data is wholly inadequate to provide for any of the needs listed above, and indeed our current struggles reflect this
 
+## Phased Approach to metric creation
+### Phase 1
+### Phase 2
+### Phase 3
+
 # How to contribute
 
 1) Click "Gitpod Ready-to-Code" badge to start up a new coding workspace.
 2) Under the Source Control: git menu select "Fork" - 
 3) Press enter to confirm selection
-![Confirm Selection](/img/Screen Shot 2020-04-28 at 12.58.30 PM)
+![Confirm Selection](img/Screen Shot 2020-04-28 at 12.58.30 PM)
 u should receive confirmation you successfully switched git url in the lower right cornern
 4) Make modifications
 5) `git add *`
@@ -62,9 +80,12 @@ use **JS** based tech
 
     - TODO:
         Determine whether we should use zero knowledge proofs to preserve user privacy
-        Review ZKP presentation: 
+        Review ZKP presentation: \
+        - [ ] reach out to expert and ask for her opinion? - Hadas Zeilberger, ConsenSys Health's ZK specialist to present on ZK's and lead a Q&A session about privacy and zero-knowledge solutions
+	    - [ ] thoughts?
+        - ZKP's are complex
 
-# Resources
+# Data lakes/sets etc.
 
 COVID-19 data sets provided by AWS: <- need to query Amazon COVID-19 data lake w/ SQL.
 
@@ -75,3 +96,9 @@ COVID-19 data sets provided by AWS: <- need to query Amazon COVID-19 data lake w
 - https://github.com/CSSEGISandData/COVID-19
 
 - https://datascience.nih.gov/covid-19-open-access-resources
+
+Other:
+
+- https://c19hcc.org/resource-library/
+
+- https://covidtracking.com/data
