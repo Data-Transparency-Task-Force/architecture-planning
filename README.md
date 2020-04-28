@@ -16,7 +16,8 @@ Brainstorm DOC - https://docs.google.com/document/d/1h1tq6URVTEinGAatKxs6Adybji5
 
 ## TODO: - add official team doge/mascot "Henry"
 
-![Henry](img/henry.png)
+![Henry](/img/henry.jpeg)
+
 
 ## Metric (DTS??) - The metric itself should instill confidence. Calculations should be as transparent as possible. 
 
@@ -81,7 +82,7 @@ use **JS** based tech
     - TODO:
         Determine whether we should use zero knowledge proofs to preserve user privacy
         Review ZKP presentation: \
-        - [ ] email expert and ask for her opinion?
+        - [ ] reach out to expert and ask for her opinion? - Hadas Zeilberger, ConsenSys Health's ZK specialist to present on ZK's and lead a Q&A session about privacy and zero-knowledge solutions
 	    - [ ] thoughts?
         - ZKP's are complex
 
