@@ -7,11 +7,9 @@ Brainstorm DOC - https://docs.google.com/document/d/1h1tq6URVTEinGAatKxs6Adybji5
 1) Click "Gitpod Ready-to-Code" badge to start up a new coding workspace.
 2) Under the Source Control: git menu select "Fork" - u should receive confirmatoin you successfully switched in the lower right cornern
 3) Make modifications
-4) "git add *"
-5) "git commit -m "<WHAT CHANGES I MADE>"
-6) "git push" <- from here you can make a pull request w/ changes between our org repo and the forked repo.
-
-
+4) `git add *`
+5) `git commit -m <DESCRIPTION_OF_WHAT_CHANGES_I_MADE>`
+6) `git push` <- from here you can make a pull request w/ changes between our org repo and the forked repo.
 
 # Architecture Planning
 
