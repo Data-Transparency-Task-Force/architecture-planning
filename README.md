@@ -8,6 +8,7 @@ Brainstorm DOC - https://docs.google.com/document/d/1h1tq6URVTEinGAatKxs6Adybji5
 - [ ] react js demo
 - [ ] discussion points
 - [ ] phased approach to metric creation
+- [ ] mascot
 
 # Discussion Points
 
@@ -24,6 +25,11 @@ Brainstorm DOC - https://docs.google.com/document/d/1h1tq6URVTEinGAatKxs6Adybji5
 3) It is also critical to know how many people have been tested;
 
 - current testing data is wholly inadequate to provide for any of the needs listed above, and indeed our current struggles reflect this
+
+## Phased Approach to metric creation
+### Phase 1
+### Phase 2
+### Phase 3
 
 # How to contribute
 
