@@ -23,6 +23,7 @@
   "homepage": "https://github.com/Data-Transparency-Task-Force/architecture-planning#readme",
   "dependencies": {
     "@studydefi/money-legos": "^2.0.6",
+    "google-maps-react": "^2.0.6",
     "ipfs": "^0.43.0",
     "jest": "^25.4.0",
     "prom-client": "^11.5.3",
