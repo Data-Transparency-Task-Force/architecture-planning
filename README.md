@@ -7,8 +7,10 @@ Brainstorm DOC - https://docs.google.com/document/d/1h1tq6URVTEinGAatKxs6Adybji5
 - [ ] intros
 - [ ] react js demo
 - [ ] discussion points
-- [ ] phased approach to metric creation
+- [ ] phased approach to metric creation/feedback gathering
+- [ ] decide on 1st 3 phases criterion
 - [ ] mascot
+- [ ] iterate on github workflow - https://gist.github.com/blackfalcon/8428401
 
 # Discussion Points
 
