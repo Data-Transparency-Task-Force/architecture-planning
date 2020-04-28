@@ -7,7 +7,7 @@ Brainstorm DOC - https://docs.google.com/document/d/1h1tq6URVTEinGAatKxs6Adybji5
 
 ## Metric - The metric itself should instill confidence. Calculations should be as transparent as possible. 
 
-1) Curent colloquial metric is number of people deceased - lags several weeks behind what's happening (reflects
+1) Current colloquial metric is number of people deceased - lags several weeks behind what's happening (reflects
 
 2) The second metric we all know is the number of cases tested positive. This too isn’t helpful because it ignores the number of people who could already be infected but haven’t yet ‘tested’ positive, or could soon be infected because of a particular relationship between population density infection rates. It ignores the context that number is couched in.
 
@@ -20,8 +20,8 @@ Brainstorm DOC - https://docs.google.com/document/d/1h1tq6URVTEinGAatKxs6Adybji5
 1) Click "Gitpod Ready-to-Code" badge to start up a new coding workspace.
 2) Under the Source Control: git menu select "Fork" - 
 3) Press enter to confirm selection
-![Confirm Selection](/img/)
-u should receive confirmatoin you successfully switched git url in the lower right cornern
+![Confirm Selection](/img/Screen Shot 2020-04-28 at 12.58.30 PM)
+u should receive confirmation you successfully switched git url in the lower right cornern
 4) Make modifications
 5) `git add *`
 6) `git commit -m <DESCRIPTION_OF_WHAT_CHANGES_I_MADE>`
