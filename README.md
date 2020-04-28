@@ -66,7 +66,10 @@ use **JS** based tech
 
     - TODO:
         Determine whether we should use zero knowledge proofs to preserve user privacy
-        Review ZKP presentation: 
+        Review ZKP presentation: \
+        - [ ] email expert and ask for her opinion?
+	    - [ ] thoughts?
+        - ZKP's are complex
 
 # Data lakes/sets etc.
 
