@@ -16,7 +16,7 @@ Brainstorm DOC - https://docs.google.com/document/d/1h1tq6URVTEinGAatKxs6Adybji5
 
 ## TODO: - add official team doge/mascot "Henry"
 
-![Henry]()
+![Henry](img/henry.png)
 
 ## Metric (DTS??) - The metric itself should instill confidence. Calculations should be as transparent as possible. 
 
@@ -38,7 +38,7 @@ Brainstorm DOC - https://docs.google.com/document/d/1h1tq6URVTEinGAatKxs6Adybji5
 1) Click "Gitpod Ready-to-Code" badge to start up a new coding workspace.
 2) Under the Source Control: git menu select "Fork" - 
 3) Press enter to confirm selection
-![Confirm Selection](/img/Screen Shot 2020-04-28 at 12.58.30 PM)
+![Confirm Selection](/img/switchFork.png)
 u should receive confirmation you successfully switched git url in the lower right cornern
 4) Make modifications
 5) `git add *`
