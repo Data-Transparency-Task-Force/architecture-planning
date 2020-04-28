@@ -3,13 +3,29 @@ Brainstorm DOC - https://docs.google.com/document/d/1h1tq6URVTEinGAatKxs6Adybji5
 [![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/Data-Transparency-Task-Force/architecture-planning)
 ![CI](https://github.com/Data-Transparency-Task-Force/architecture-planning/workflows/CI/badge.svg)
 
+# Discussion Points
+
+## Metric - The metric itself should instill confidence. Calculations should be as transparent as possible. 
+
+1) Curent colloquial metric is number of people deceased - lags several weeks behind what's happening (reflects
+
+2) The second metric we all know is the number of cases tested positive. This too isn’t helpful because it ignores the number of people who could already be infected but haven’t yet ‘tested’ positive, or could soon be infected because of a particular relationship between population density infection rates. It ignores the context that number is couched in.
+
+3) It is also critical to know how many people have been tested;
+
+- current testing data is wholly inadequate to provide for any of the needs listed above, and indeed our current struggles reflect this
+
 # How to contribute
+
 1) Click "Gitpod Ready-to-Code" badge to start up a new coding workspace.
-2) Under the Source Control: git menu select "Fork" - u should receive confirmatoin you successfully switched git url in the lower right cornern
-3) Make modifications
-4) `git add *`
-5) `git commit -m <DESCRIPTION_OF_WHAT_CHANGES_I_MADE>`
-6) `git push` <- from here you can make a pull request w/ changes between our org repo and the forked repo.
+2) Under the Source Control: git menu select "Fork" - 
+3) Press enter to confirm selection
+![Confirm Selection](/img/)
+u should receive confirmatoin you successfully switched git url in the lower right cornern
+4) Make modifications
+5) `git add *`
+6) `git commit -m <DESCRIPTION_OF_WHAT_CHANGES_I_MADE>`
+7) `git push` <- from here you can make a pull request w/ changes between our org repo and the forked repo.
 
 # Architecture Planning
 
