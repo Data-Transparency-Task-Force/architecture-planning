@@ -5,9 +5,13 @@ Brainstorm DOC - https://docs.google.com/document/d/1h1tq6URVTEinGAatKxs6Adybji5
 
 # Discussion Points
 
-## Metric - The metric itself should instill confidence. Calculations should be as transparent as possible. 
+## TODO: - add official team doge/mascot "Henry"
 
-1) Current colloquial metric is number of people deceased - lags several weeks behind what's happening (reflects
+![Henry]()
+
+## Metric (DTS??) - The metric itself should instill confidence. Calculations should be as transparent as possible. 
+
+1) Current colloquial metric is number of people deceased - lags several weeks behind what's happening
 
 2) The second metric we all know is the number of cases tested positive. This too isn’t helpful because it ignores the number of people who could already be infected but haven’t yet ‘tested’ positive, or could soon be infected because of a particular relationship between population density infection rates. It ignores the context that number is couched in.
 
@@ -64,7 +68,7 @@ use **JS** based tech
         Determine whether we should use zero knowledge proofs to preserve user privacy
         Review ZKP presentation: 
 
-# Resources
+# Data lakes/sets etc.
 
 COVID-19 data sets provided by AWS: <- need to query Amazon COVID-19 data lake w/ SQL.
 
@@ -75,3 +79,9 @@ COVID-19 data sets provided by AWS: <- need to query Amazon COVID-19 data lake w
 - https://github.com/CSSEGISandData/COVID-19
 
 - https://datascience.nih.gov/covid-19-open-access-resources
+
+Other:
+
+- https://c19hcc.org/resource-library/
+
+- https://covidtracking.com/data
