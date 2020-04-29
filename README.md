@@ -3,13 +3,6 @@ Brainstorm DOC - https://docs.google.com/document/d/1h1tq6URVTEinGAatKxs6Adybji5
 [![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/Data-Transparency-Task-Force/architecture-planning)
 ![CI](https://github.com/Data-Transparency-Task-Force/architecture-planning/workflows/CI/badge.svg)
 
-
-# Metting w/ chris morning 30th
-MVP - map of location w/ heatmap radius and statistics on hover (aggregated from AWS data lake)
-- one state
-- county specific information
-- can scale up to phase 1 or 2
-
 # April 30th TODO
 - [ ] intros
 - [ ] react js demo
@@ -44,7 +37,7 @@ MVP - map of location w/ heatmap radius and statistics on hover (aggregated from
 
 ### Phase 3
 
-# How to contribute
+# How to contribute <- TODO: made need updating
 
 1) Click "Gitpod Ready-to-Code" badge to start up a new coding workspace.
 2) Under the Source Control: git menu select "Fork" - 
@@ -132,9 +125,6 @@ a (un)certainty metric
 existence of metric should make people want to increase testing
 testing key 
 
-
-
-
 ## Meeting Flow
 
 Intros
@@ -146,3 +136,9 @@ react google maps library - UI dev
 metric discussion
 
 moving forward, questions, and feedback
+
+# Meeting w/ chris morning 30th MVP discussion
+MVP - map of location w/ heatmap radius and statistics on hover (aggregated from AWS data lake)
+- one state
+- county specific information
+- can scale up to phase 1 or 2
