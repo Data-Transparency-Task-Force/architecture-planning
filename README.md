@@ -3,8 +3,14 @@ Brainstorm DOC - https://docs.google.com/document/d/1h1tq6URVTEinGAatKxs6Adybji5
 [![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/Data-Transparency-Task-Force/architecture-planning)
 ![CI](https://github.com/Data-Transparency-Task-Force/architecture-planning/workflows/CI/badge.svg)
 
-# April 29th TODO
 
+# Metting w/ chris morning 30th
+MVP - map of location w/ heatmap radius and statistics on hover (aggregated from AWS data lake)
+- one state
+- county specific information
+- can scale up to phase 1 or 2
+
+# April 30th TODO
 - [ ] intros
 - [ ] react js demo
 - [ ] discussion points
