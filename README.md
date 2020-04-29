@@ -4,6 +4,7 @@ Brainstorm DOC - https://docs.google.com/document/d/1h1tq6URVTEinGAatKxs6Adybji5
 ![CI](https://github.com/Data-Transparency-Task-Force/architecture-planning/workflows/CI/badge.svg)
 
 # April 29th TODO
+
 - [ ] intros
 - [ ] react js demo
 - [ ] discussion points
@@ -19,8 +20,7 @@ Brainstorm DOC - https://docs.google.com/document/d/1h1tq6URVTEinGAatKxs6Adybji5
 
 ![Henry](img/FullSizeRender.jpeg)
 
-
-## Metric (DTS??) - The metric itself should instill confidence. Calculations should be as transparent as possible. 
+## Metric (DTS??) - The metric itself should instill confidence. Calculations should be as transparent as possible
 
 1) Current colloquial metric is number of people deceased - lags several weeks behind what's happening
 
@@ -31,8 +31,11 @@ Brainstorm DOC - https://docs.google.com/document/d/1h1tq6URVTEinGAatKxs6Adybji5
 - current testing data is wholly inadequate to provide for any of the needs listed above, and indeed our current struggles reflect this
 
 ## Phased Approach to metric creation
+
 ### Phase 1
+
 ### Phase 2
+
 ### Phase 3
 
 # How to contribute
@@ -106,3 +109,34 @@ Other:
 - https://c19hcc.org/resource-library/
 
 - https://covidtracking.com/data
+
+
+As we are watching this unfold we are getting mess of metrics
+scientific community + individuals
+what does this mean 
+huge limitations
+cases per day is not reliable
+deaths per day when they die they die more clean cut
+death data on mondays -> 
+
+risk and uncertainty calculation
+
+a (un)certainty metric
+
+existence of metric should make people want to increase testing
+testing key 
+
+
+
+
+## Meeting Flow
+
+Intros
+
+overall metric idea
+
+react google maps library - UI dev
+
+metric discussion
+
+moving forward, questions, and feedback
