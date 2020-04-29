@@ -9,14 +9,15 @@ Brainstorm DOC - https://docs.google.com/document/d/1h1tq6URVTEinGAatKxs6Adybji5
 - [ ] discussion points
 - [ ] phased approach to metric creation/feedback gathering
 - [ ] decide on 1st 3 phases criterion
-- [ ] mascot
+- [x] mascot
 - [ ] iterate on github workflow - https://gist.github.com/blackfalcon/8428401
+- [ ] zk snarks discussion
 
 # Discussion Points
 
-## TODO: - add official team doge/mascot "Henry"
+## Official team doge/mascot "Henry" for inspiration!
 
-![Henry](/img/henry.jpeg)
+![Henry](img/FullSizeRender.jpeg)
 
 
 ## Metric (DTS??) - The metric itself should instill confidence. Calculations should be as transparent as possible. 
@@ -39,7 +40,9 @@ Brainstorm DOC - https://docs.google.com/document/d/1h1tq6URVTEinGAatKxs6Adybji5
 1) Click "Gitpod Ready-to-Code" badge to start up a new coding workspace.
 2) Under the Source Control: git menu select "Fork" - 
 3) Press enter to confirm selection
-![Confirm Selection](/img/switchFork.png)
+
+![Confirm Selection](img/switchFork.png)
+
 u should receive confirmation you successfully switched git url in the lower right cornern
 4) Make modifications
 5) `git add *`
