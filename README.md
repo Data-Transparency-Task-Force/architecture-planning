@@ -93,6 +93,8 @@ use **JS** based tech
 
 # Data lakes/sets etc.
 
+https://1up.health/dev/fhir-analytics <- this look interesting and has office hours tom
+
 COVID-19 data sets provided by AWS: <- need to query Amazon COVID-19 data lake w/ SQL.
 
 - https://aws.amazon.com/blogs/big-data/a-public-data-lake-for-analysis-of-covid-19-data/
