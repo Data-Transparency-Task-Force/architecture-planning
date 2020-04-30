@@ -9,7 +9,7 @@ Brainstorm DOC - https://docs.google.com/document/d/1h1tq6URVTEinGAatKxs6Adybji5
 # April 30th TODO
 - [x] intros
 - [ ] react js demo
-- [ ] discussion points
+- [x] discussion points <- TY Max!
 - [x] phased approach to metric creation/feedback gathering
 - [x] decide on 1st 3 phases criterion
 - [x] mascot
