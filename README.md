@@ -7,11 +7,11 @@ Brainstorm DOC - https://docs.google.com/document/d/1h1tq6URVTEinGAatKxs6Adybji5
 - [ ] 1UP Health setup - **WIP**
 
 # April 30th TODO
-- [x] intros
+- [ ] intros
 - [ ] react js demo
-- [x] discussion points <- TY Max!
-- [x] phased approach to metric creation/feedback gathering
-- [x] decide on 1st 3 phases criterion
+- [ ] discussion points
+- [ ] phased approach to metric creation/feedback gathering
+- [ ] decide on 1st 3 phases criterion
 - [x] mascot
 - [ ] iterate on github workflow - https://gist.github.com/blackfalcon/8428401
 - [ ] zk snarks discussion
@@ -53,6 +53,8 @@ MVP - map of location w/ heatmap radius and statistics on hover (aggregated from
 ### Phase 1
 
 ### Phase 2
+
+### Phase 3
 
 # How to contribute <- TODO: made need updating
 
@@ -110,8 +112,14 @@ use **JS** based tech
 
 # Data lakes/sets etc.
 
+## 1UP
 https://1up.health/dev/fhir-analytics <- this look interesting and has office hours tom
 
+## CALIFORNIA
+
+https://healthdata.gov/dataset/california-covid-19-hospital-data-and-case-statistics
+
+## AWS
 COVID-19 data sets provided by AWS: <- need to query Amazon COVID-19 data lake w/ SQL.
 
 - https://aws.amazon.com/blogs/big-data/a-public-data-lake-for-analysis-of-covid-19-data/
@@ -161,3 +169,29 @@ MVP - map of location w/ heatmap radius and statistics on hover (aggregated from
 - one state
 - county specific information
 - can scale up to phase 1 or 2
+
+
+CDC for data - state level data - local health department
+private clinic data - having trouble getting data
+under reporting gon federal level
+non centralizd health system
+hopkins
+uva 
+supply data
+GIS
+hospitals, race, sex
+demograhic data
+
+green/red - recommend trends
+positive or negative correlation
+not sure on data source for public measures
+
+PPE might be tough - facilities and beds
+local or state health department resources
+
+# 4/30/10
+- [] github cleanup
+- [ ] gitcoin response data scientist
+- [ ] schedule discussions w/ chris
+- [ ] @ 5:30 sync make sure to update chris + max on schedule
+
