@@ -3,12 +3,15 @@ Brainstorm DOC - https://docs.google.com/document/d/1h1tq6URVTEinGAatKxs6Adybji5
 [![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/Data-Transparency-Task-Force/architecture-planning)
 ![CI](https://github.com/Data-Transparency-Task-Force/architecture-planning/workflows/CI/badge.svg)
 
+# 5/1 TODO
+- [ ] 1UP Health setup - **WIP**
+
 # April 30th TODO
-- [ ] intros
+- [x] intros
 - [ ] react js demo
 - [ ] discussion points
-- [ ] phased approach to metric creation/feedback gathering
-- [ ] decide on 1st 3 phases criterion
+- [x] phased approach to metric creation/feedback gathering
+- [x] decide on 1st 3 phases criterion
 - [x] mascot
 - [ ] iterate on github workflow - https://gist.github.com/blackfalcon/8428401
 - [ ] zk snarks discussion
