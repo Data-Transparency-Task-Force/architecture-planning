@@ -37,11 +37,12 @@ Brainstorm DOC - https://docs.google.com/document/d/1h1tq6URVTEinGAatKxs6Adybji5
 ### Phase 0.0 - A ok or maybe not so good (MVP) confidence metric
 
 Metrics to focus on for a given area (state):
-Deaths
-Confirmed cases
-Tests administered
-Risk factors - don’t see a lot
-Resources available - don’t see a lot
+
+- Deaths
+- Confirmed cases
+- Tests administered
+- Risk factors - don’t see a lot
+- Resources available - don’t see a lot
 
 We need help in determining where to pull our data from and how to synthesize this into our ELI5ish confidence metric:
 
@@ -50,11 +51,9 @@ MVP - map of location w/ heatmap radius and statistics on hover (aggregated from
 - county specific information
 - can scale up to phase 1 or 2
 
-### Phase 1
+### Phase 1 - MVP+
 
-### Phase 2
-
-### Phase 3
+### Phase 2 - 
 
 # How to contribute <- TODO: made need updating
 
