@@ -6,6 +6,10 @@ Brainstorm DOC - https://docs.google.com/document/d/1h1tq6URVTEinGAatKxs6Adybji5
 
 # 5/1 TODO
 - [ ] 1UP Health setup - **WIP**
+- [ ] add meeting notes
+- [ ] data discussion today @ 5:30 ideally
+- [ ] brain storm how to transform 5 data metrics into -> easy to understand confidence metric
+	- [ ] come up with concrete questions for @profmike.
 
 # April 30th TODO
 - [ ] intros
