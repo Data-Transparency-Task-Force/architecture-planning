@@ -2,12 +2,21 @@ Brainstorm DOC - https://docs.google.com/document/d/1h1tq6URVTEinGAatKxs6Adybji5
 
 [![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/Data-Transparency-Task-Force/architecture-planning)
 ![CI](https://github.com/Data-Transparency-Task-Force/architecture-planning/workflows/CI/badge.svg)
+[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-blue.svg)](https://github.com/Data-Transparency-Task-Force/architecture_planning/CONTRIBUTING.md)
 
-# April 29th TODO
+# 5/1 TODO
+- [ ] 1UP Health setup - **WIP**
+- [ ] add meeting notes
+- [ ] data discussion today @ 5:30 ideally
+- [ ] brain storm how to transform 5 data metrics into -> easy to understand confidence metric
+	- [ ] come up with concrete questions for @profmike.
+
+# April 30th TODO
 - [ ] intros
 - [ ] react js demo
-- [ ] discussion points
-- [ ] phased approach to metric creation/feedback gathering
+- [x] discussion points
+- [x] phased approach to metric creation/feedback gathering
 - [ ] decide on 1st 3 phases criterion
 - [x] mascot
 - [ ] iterate on github workflow - https://gist.github.com/blackfalcon/8428401
@@ -19,8 +28,7 @@ Brainstorm DOC - https://docs.google.com/document/d/1h1tq6URVTEinGAatKxs6Adybji5
 
 ![Henry](img/FullSizeRender.jpeg)
 
-
-## Metric (DTS??) - The metric itself should instill confidence. Calculations should be as transparent as possible. 
+## Metric (DTS??) - The metric itself should instill confidence. Calculations should be as transparent as possible
 
 1) Current colloquial metric is number of people deceased - lags several weeks behind what's happening
 
@@ -31,11 +39,29 @@ Brainstorm DOC - https://docs.google.com/document/d/1h1tq6URVTEinGAatKxs6Adybji5
 - current testing data is wholly inadequate to provide for any of the needs listed above, and indeed our current struggles reflect this
 
 ## Phased Approach to metric creation
-### Phase 1
-### Phase 2
-### Phase 3
 
-# How to contribute
+### Phase 0.0 - A ok or maybe not so good (MVP) confidence metric
+
+Metrics to focus on for a given area (state):
+
+- Deaths
+- Confirmed cases
+- Tests administered
+- Risk factors - don’t see a lot
+- Resources available - don’t see a lot
+
+We need help in determining where to pull our data from and how to synthesize this into our ELI5ish confidence metric:
+
+MVP - map of location w/ heatmap radius and statistics on hover (aggregated from AWS data lake)
+- one state
+- county specific information
+- can scale up to phase 1 or 2
+
+### Phase 1 - MVP+
+
+### Phase 2 - 
+
+# How to contribute <- TODO: made need updating
 
 1) Click "Gitpod Ready-to-Code" badge to start up a new coding workspace.
 2) Under the Source Control: git menu select "Fork" - 
@@ -91,6 +117,14 @@ use **JS** based tech
 
 # Data lakes/sets etc.
 
+## 1UP
+https://1up.health/dev/fhir-analytics <- this look interesting and has office hours tom
+
+## CALIFORNIA
+
+https://healthdata.gov/dataset/california-covid-19-hospital-data-and-case-statistics
+
+## AWS
 COVID-19 data sets provided by AWS: <- need to query Amazon COVID-19 data lake w/ SQL.
 
 - https://aws.amazon.com/blogs/big-data/a-public-data-lake-for-analysis-of-covid-19-data/
@@ -106,3 +140,63 @@ Other:
 - https://c19hcc.org/resource-library/
 
 - https://covidtracking.com/data
+
+
+As we are watching this unfold we are getting mess of metrics
+scientific community + individuals
+what does this mean 
+huge limitations
+cases per day is not reliable
+deaths per day when they die they die more clean cut
+death data on mondays -> 
+
+risk and uncertainty calculation
+
+a (un)certainty metric
+
+existence of metric should make people want to increase testing
+testing key 
+
+## Meeting Flow
+
+Intros
+
+overall metric idea
+
+react google maps library - UI dev
+
+metric discussion
+
+moving forward, questions, and feedback
+
+# Meeting w/ chris morning 30th MVP discussion
+MVP - map of location w/ heatmap radius and statistics on hover (aggregated from AWS data lake)
+- one state
+- county specific information
+- can scale up to phase 1 or 2
+
+
+CDC for data - state level data - local health department
+private clinic data - having trouble getting data
+under reporting gon federal level
+non centralizd health system
+hopkins
+uva 
+supply data
+GIS
+hospitals, race, sex
+demograhic data
+
+green/red - recommend trends
+positive or negative correlation
+not sure on data source for public measures
+
+PPE might be tough - facilities and beds
+local or state health department resources
+
+# 4/30/10
+- [] github cleanup
+- [ ] gitcoin response data scientist
+- [ ] schedule discussions w/ chris
+- [ ] @ 5:30 sync make sure to update chris + max on schedule
+
