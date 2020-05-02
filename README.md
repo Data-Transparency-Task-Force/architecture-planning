@@ -1,5 +1,11 @@
 Brainstorm DOC - https://docs.google.com/document/d/1h1tq6URVTEinGAatKxs6Adybji50wT9O8ceLaoPGd0E/edit?usp=sharing
 
+Github Org - https://github.com/Data-Transparency-Task-Force
+
+Hackathon Vids - https://www.youtube.com/playlist?list=PLvTrX8LNPbPn4HiPG6jdmScrP4VGCNy5y
+
+Power Point - https://docs.google.com/presentation/d/1DHZlcC9lX0p13apiiNP8EgSh69lSIHsSNtk_cf5wuD0/edit#slide=id.p
+
 [![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/Data-Transparency-Task-Force/architecture-planning)
 ![CI](https://github.com/Data-Transparency-Task-Force/architecture-planning/workflows/CI/badge.svg)
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
