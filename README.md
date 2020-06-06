@@ -66,7 +66,7 @@ MVP - map of location w/ heatmap radius and statistics on hover (aggregated from
 - county specific information
 - can scale up to phase 1 or 2
 
-### Phase 1 - MVP+
+### Phase 1 - MVP+ - WIP
 
 ### Phase 2 -
 
