@@ -35,16 +35,12 @@
     "reactjs": "^1.0.0",
     "snyk": "^1.316.1"
   },
-  "snyk": true",
+  "snyk": "true",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "reactjs": "^1.0.0",
     "reactjs": "^1.0.0",
     "snyk": "^1.316.1",
-    "prettier": "2.0.5"
-  },
-  "snyk": true,
-  "devDependencies": {
     "prettier": "2.0.5"
   }
 }
