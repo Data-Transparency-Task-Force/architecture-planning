@@ -31,9 +31,7 @@
     "prom-client": "^11.5.3",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-
     "reactjs": "^1.0.0",
-    "snyk": "^1.1071.0"
   },
   "snyk": "true",
     "react": "^16.13.1",
