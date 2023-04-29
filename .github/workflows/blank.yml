@@ -14,7 +14,7 @@ on:
 jobs:
   # This workflow contains a single job called "build"
    strategy:
-      node-version: 18.x
+      node-version: [ 18 ] 
       # The type of runner that the job will run on
    build:
       runs-on: ubuntu-latest
